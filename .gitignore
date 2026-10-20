@@ -1,0 +1,5 @@
+node_modules/
+*.csv
+*_scraped_ids.json
+.DS_Store
+chrome-profile/

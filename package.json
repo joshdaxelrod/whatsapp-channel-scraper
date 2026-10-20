@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-channel-scraper",
+  "version": "1.0.0",
+  "description": "Collect posts and emoji reactions from public WhatsApp channels.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "author": "Josh Axelrod",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer-core": "^21.0.0"
+  }
+}
